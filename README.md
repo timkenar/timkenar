@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Intranet project<br>👯 I’m looking to collaborate on Upcoming Mobile application Project<br>🤝 <br>🌱 I’m currently learning .Net Framework<br>💬 Ask me about Machine Learning<br>⚡ Fun fact I love reverse coding
+🔭 I’m currently working on an Intranet project<br>👯 I’m looking to collaborate on Upcoming Mobile application Project<br>🤝 Data  <br>🌱 I’m currently learning .Net Framework<br>💬 Ask me about Machine Learning<br>⚡ Fun fact I love reverse coding
 
 
 ## 🌐 Socials:
