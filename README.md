@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Mobile Application project<br>👯 I’m looking to collaborate on upscaling the mbile application Project<br>🤝 Data  <br>🌱 I’m currently learning React Native Framework<br>💬 Ask me about Data and AI <br>⚡ Fun fact I love reverse engineering softwares
+🔭 I’m currently working on an Mobile Application project<br>👯 I’m looking to collaborate on frontend development using React <br>🤝 Data  <br>🌱 I’m currently learning React Native Framework<br>💬 Ask me about Data and AI <br>⚡ Fun fact I love reverse engineering softwares
 
 
 ## 🌐 Socials:
